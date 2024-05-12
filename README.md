@@ -17,7 +17,6 @@ Hi! My name is Muhammad Muzammal 😄
   </a>
 </div>
 
-### Portfolio
+### Website
 
-
-[My Website](http://www.mywebsite.com)
+[Portfolio](https://muzamal256.netlify.app/)
