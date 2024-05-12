@@ -20,7 +20,7 @@ Hi! My name is Muhammad Muzammal 😄
 ### Portfolio
 
 <div id="badges">
-  <p>Link</p>
+  <p>Link: </p>
   <a href="https://www.linkedin.com/in/muhammad-muzammal-a9ba60201/" target="_blank">
   </a>
 </div>
