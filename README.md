@@ -19,4 +19,4 @@ Hi! My name is Muhammad Muzammal 😄
 
 ### Website
 
-[Portfolio]([https://muzamal256.netlify.app/](https://muzammal.vercel.app/))
+[Portfolio](https://muzammal.vercel.app/)
