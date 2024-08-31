@@ -1,7 +1,11 @@
 Hi! My name is Muhammad Muzammal 😄
 ========================================================================================================================================
 
-🌍  I am a passionate Front-End Developer based in Pakistan.
+
+## 🚀 About Me
+I am a Front-End Engineer and Cloud DevOps Engineer, skilled in creating user-friendly web applications and managing secure, scalable cloud infrastructure. I bridge the gap between development and operations, ensuring efficient, high-quality solutions.
+
+
 <br/>
 
 ### Skills
@@ -9,14 +13,7 @@ Hi! My name is Muhammad Muzammal 😄
 [![My Skills](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts,jquery)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,mui)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=docker,k8s)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=terraform,)
 <br/>
 
-### Socials
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://muzammal.vercel.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/](https://www.linkedin.com/in/muhammad-muzammal-a9ba60201/))
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/muhammad-muzammal-a9ba60201/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
-
-### Website
-
-[Portfolio](https://muzammal.vercel.app/)
