@@ -1,12 +1,12 @@
 Hi! My name is Muhammad Muzammal 😄
 ========================================================================================================================================
 
-🌍  I am a Front-End Developer based in Lahore, Pakistan.
+🌍  I am a passionate Front-End Developer based in Pakistan.
 <br/>
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=html,css)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma)](https://skillicons.dev)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=github)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=k8s)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=terraform)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=mongo)](https://skillicons.dev) 
+[![My Skills](https://skillicons.dev/icons?i=html,css,scss)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=js,ts,jquery)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=react,next,nodejs)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=tailwind,bootstrap,mui)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=git,github,githubactions)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![My Skills](https://skillicons.dev/icons?i=docker,k8s)](https://skillicons.dev) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ![My Skills](https://skillicons.dev/icons?i=terraform,)
 <br/>
 
 ### Socials
