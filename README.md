@@ -3,7 +3,7 @@ Hi! My name is Muhammad Muzammal 😄
 
 
 ## 🚀 About Me
-I am a Cloud DevOps Engineer with Front-End Engineering skills in creating user-friendly web applications and managing secure, scalable cloud infrastructure. I bridge the gap between development and operations, ensuring efficient, high-quality solutions.
+Hi, I'm Muhammad Muzammal. I am a Full Stack Engineer with DevOps skills in creating user-friendly web applications and managing secure, scalable cloud infrastructure. I bridge the gap between development and operations, ensuring efficient, high-quality solutions. 📍
 
 
 <br/>
