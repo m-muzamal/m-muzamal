@@ -1,13 +1,14 @@
 import os
 from random import randint 
 
-for i in range(1, 365):
+# Dates to generate commits for
+dates = ["2025-01-10", "2025-01-11"]
 
-    for j in range(0, randint(1, 10)):
-        d = str(i) + ' days ago'
+for date in dates:
+    for _ in range(0, randint(1, 10)):  # Random number of commits per day
         with open('file.txt', 'a') as file:
-            file.write(d)
+            file.write(f"Commit for {date}\n")  # Write date info to file
         os.system('git add .')
-        os.system('git commit --date="'+ d +'" -m "update"')
+        os.system(f'git commit --date="{date}" -m "update"')
 
 os.system('git push -u origin main')
