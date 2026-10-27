@@ -1,13 +1,13 @@
 <h1 align="center">✨ Muhammad Muzammal ✨</h1>
 <p align="center">
-  <strong>MERN Stack Developer</strong> | <strong>Cloud & DevOps Engineer</strong>
+  <strong>Software Engineer | MERN Stack & DevOps</strong>
 </p>
 
 ---
 
 ## 🚀 About Me
 
-Hi, I'm **Muhammad Muzammal**, a passionate developer with expertise in **MERN Stack development** and **Cloud & DevOps Engineering**.  
+Hi, I'm **Muhammad Muzammal**, a passionate developer with expertise in **MERN Stack development** and ** DevOps Engineering**.  
 I specialize in building user-friendly web applications, designing secure and scalable cloud infrastructure, and bridging the gap between development and operations.  
 My goal is to deliver efficient, high-quality solutions that meet both technical and business needs. 🌍
 <br/>
